@@ -1,9 +1,5 @@
 # Polybar Replacement
 
-This bar is meant to be a replacement for my original polybar.
-All of the required PR's have been merged by now, so this config should work on `master`.
+## Source 
 
-
-<p align="center">
-    <img width="100%" src=".github/preview.png">
-</p>
+- the original can be found here https://github.com/druskus20/eugh/tree/master/polybar-replacement
